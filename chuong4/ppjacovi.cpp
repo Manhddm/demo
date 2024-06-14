@@ -1,3 +1,4 @@
+// chú ý là jacovi chưa xong hãy đợi cập nhật
 #include <bits/stdc++.h>
 using namespace std;
 #define int long long
